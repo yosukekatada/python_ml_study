@@ -4,3 +4,8 @@
 #### 勉強会HP
 * 第一回 : http://shiroyagi.connpass.com/event/38192/
 * 第二回 : http://shiroyagi.connpass.com/event/40028/
+
+#### 勉強会参加に際して必要となる分析環境の構築
+勉強会ではAnacondaがインストールされていてjupyter notebookが使える前提で進めます。
+環境構築に際しては下記ページを参考にしてください。
+* 参考URL : http://qiita.com/t2y/items/2a3eb58103e85d8064b6
